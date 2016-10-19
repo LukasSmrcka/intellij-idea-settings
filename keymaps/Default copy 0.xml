@@ -14,8 +14,11 @@
   <action id="ExternalSystem_414c84aeureka10f85daaclean">
     <keyboard-shortcut first-keystroke="shift alt y" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
   <action id="Macro.Gradle refresh">
-    <keyboard-shortcut first-keystroke="shift alt semicolon" />
+    <keyboard-shortcut first-keystroke="shift alt back_quote" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
