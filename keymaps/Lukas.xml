@@ -1,6 +1,18 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Lukas" parent="$default">
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="ExpandDocComments">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
   <action id="ExternalSystem_f96f641cissues-managemente96dca09clean">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="Macro.Gradle refresh">
+    <keyboard-shortcut first-keystroke="shift alt v" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
