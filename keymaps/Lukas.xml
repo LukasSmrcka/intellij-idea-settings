@@ -18,6 +18,7 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
+  <action id="GotoCustomRegion" />
   <action id="Macro.Gradle refresh">
     <keyboard-shortcut first-keystroke="shift alt v" />
   </action>
