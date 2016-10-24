@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="ActivateStructureToolWindow" />
-  <action id="CheckinFiles">
+  <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
   <action id="CollapseDocComments">
