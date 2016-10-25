@@ -38,9 +38,13 @@
           <option name="url" value="https://gitlab.acrobits.cz/csp2/file-processor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.acrobits.cz/csp2/properties-storage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Acrobits" />
+    <option name="cloneParentDir" value="C:\Projects\Acrobits" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="D:\4finance\pos-lap" />
