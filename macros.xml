@@ -3,7 +3,7 @@
     <macro name="Gradle refresh">
       <action id="ExternalSystem.RefreshAllProjects" />
     </macro>
-    <macro name="Gradle Clean" />
     <macro name="Gradle clean" />
+    <macro name="Gradle Clean" />
   </component>
 </application>
