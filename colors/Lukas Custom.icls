@@ -167,6 +167,13 @@
         <option name="FOREGROUND" value="bababa" />
       </value>
     </option>
+    <option name="Label">
+      <value>
+        <option name="FOREGROUND" value="139d57" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bababa" />
