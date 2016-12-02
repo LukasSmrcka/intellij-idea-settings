@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[csp-core] - ...'" />
-    <option name="defaultScopeName" value="Directory '[csp-core] - ...'" />
-    <option name="SEARCH_SCOPE" value="Directory '[csp-core] - ...'" />
+    <option name="customScope" value="Project 'issues-management'" />
+    <option name="defaultScopeName" value="Project 'issues-management'" />
+    <option name="SEARCH_SCOPE" value="Project 'issues-management'" />
   </component>
 </application>
