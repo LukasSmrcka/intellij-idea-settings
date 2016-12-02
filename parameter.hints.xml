@@ -1,5 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="cz.acrobits.csp.core.query.mongo.UrlToSubarrayQuerySupport.addMapping(urlParamName,comparator)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
