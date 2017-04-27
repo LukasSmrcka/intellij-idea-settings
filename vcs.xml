@@ -63,11 +63,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.acrobits.cz:csp2/admin-server.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://lsmrcka@gitlab.acrobits.cz/csp2/admin-server.git" />
+          <option name="url" value="https://lsmrcka@gitlab.acrobits.cz/csp2/frontend-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
