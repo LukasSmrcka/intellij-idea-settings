@@ -5,10 +5,9 @@
       <mapping pattern="sample" type="JSON" />
       <mapping ext="sample" type="JSON" />
       <mapping ext="schema" type="JSON" />
-      <mapping pattern="nakup" type="PLAIN_TEXT" />
-      <mapping pattern="filer" type="PLAIN_TEXT" />
       <mapping pattern="something" type="PLAIN_TEXT" />
-      <mapping ext="adoc" type="PLAIN_TEXT" />
+      <mapping pattern="filer" type="PLAIN_TEXT" />
+      <mapping pattern="nakup" type="PLAIN_TEXT" />
       <mapping ext="snippet" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="XML" />
     </extensionMap>
