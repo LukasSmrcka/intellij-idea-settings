@@ -5,6 +5,7 @@
       <mapping pattern="sample" type="JSON" />
       <mapping ext="sample" type="JSON" />
       <mapping ext="schema" type="JSON" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="something" type="PLAIN_TEXT" />
       <mapping pattern="filer" type="PLAIN_TEXT" />
       <mapping pattern="nakup" type="PLAIN_TEXT" />
