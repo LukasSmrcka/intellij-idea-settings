@@ -13,6 +13,7 @@
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="filer" type="PLAIN_TEXT" />
       <mapping ext="adoc" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="thbs" type="PLAIN_TEXT" />
       <mapping pattern="features" type="XML" />
