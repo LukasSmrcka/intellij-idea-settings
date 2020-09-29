@@ -30,5 +30,17 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://192.168.56.100:5432/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="csp1 beta" uuid="fd815d9c-2275-460e-a399-d46d38aa25ee">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/blank</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="csp1 prod" uuid="e0eed45f-33a6-4de2-af08-640993f3d3b0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/blank</jdbc-url>
+    </data-source>
   </component>
 </application>
