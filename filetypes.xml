@@ -10,6 +10,7 @@
       <mapping pattern="something" type="PLAIN_TEXT" />
       <mapping pattern="WonetScripts" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="nakup" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="filer" type="PLAIN_TEXT" />
