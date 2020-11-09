@@ -1,0 +1,46 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@localhost" uuid="5031db2b-c20e-4e35-bee6-2f608acda6f4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="csp2 sandbox" uuid="624255c4-3b01-4d18-84cf-6c0ecdfe160d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.56.12:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="csp2 beta" uuid="8eebc6dc-e654-43aa-ba1e-5e4ad1c9ce3e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.18.1.2:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="csp2 prod" uuid="c7092281-14a5-42a5-8701-0b10299fc6c5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.18.1.2:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="csp1 sandbox" uuid="8d70252d-12ad-450f-b05c-8abed728af9b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.56.100:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="csp1 beta" uuid="fd815d9c-2275-460e-a399-d46d38aa25ee">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/blank</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="csp1 prod" uuid="e0eed45f-33a6-4de2-af08-640993f3d3b0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/blank</jdbc-url>
+    </data-source>
+  </component>
+</application>

@@ -8,9 +8,14 @@
       <mapping ext="schema" type="JSON" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="dump" type="PLAIN_TEXT" />
+      <mapping pattern="WonetScripts" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping pattern="nakup" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="filer" type="PLAIN_TEXT" />
       <mapping pattern="something" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="thbs" type="PLAIN_TEXT" />
       <mapping pattern="features" type="XML" />
       <mapping ext="bpmn" type="XML" />
