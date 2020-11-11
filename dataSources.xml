@@ -42,5 +42,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/blank</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="conferencing beta" uuid="5f548c54-0247-48fe-853d-07f9ba311d49">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.22.0.10:5432/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
