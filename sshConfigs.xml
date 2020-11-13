@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="providers.cloudsoftphone.com" id="7cab2710-8465-4aef-aca5-d2787e2c3a79" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</application>

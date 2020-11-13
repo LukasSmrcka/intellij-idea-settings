@@ -2,18 +2,17 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="sample" type="JSON" />
-      <mapping ext="sample" type="JSON" />
       <mapping ext="schema" type="JSON" />
-      <mapping pattern="text" type="PLAIN_TEXT" />
-      <mapping pattern="dump" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="JSON" />
       <mapping pattern="WonetScripts" type="PLAIN_TEXT" />
-      <mapping pattern="bla" type="PLAIN_TEXT" />
-      <mapping pattern="nakup" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern="filer" type="PLAIN_TEXT" />
       <mapping pattern="something" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern="dump" type="PLAIN_TEXT" />
+      <mapping pattern="filer" type="PLAIN_TEXT" />
+      <mapping pattern="nakup" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="thbs" type="PLAIN_TEXT" />
