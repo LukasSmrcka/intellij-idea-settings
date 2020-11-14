@@ -10,6 +10,10 @@
           <option name="url" value="https://gitlab.acrobits.cz/csp2/artifact-management.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.acrobits.cz" />
+          <option name="userName" value="lsmrcka" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Acrobits" />
