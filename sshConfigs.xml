@@ -10,6 +10,9 @@
       <sshConfig host="192.168.56.12" id="61b319df-a909-4c1f-97f9-c2e800c0b8e9" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" customName="root@csp2sandbox key" nameFormat="CUSTOM" username="root">
         <option name="customName" value="root@csp2sandbox key" />
       </sshConfig>
+      <sshConfig host="52.204.33.43" id="0ebe0f63-41cf-49bb-b5c6-d79494877064" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" customName="chime beta" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="chime beta" />
+      </sshConfig>
     </configs>
   </component>
 </application>
