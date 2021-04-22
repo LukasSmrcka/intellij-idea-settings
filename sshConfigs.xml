@@ -13,6 +13,9 @@
       <sshConfig host="52.204.33.43" id="0ebe0f63-41cf-49bb-b5c6-d79494877064" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" customName="chime beta" nameFormat="CUSTOM" username="root">
         <option name="customName" value="chime beta" />
       </sshConfig>
+      <sshConfig host="csp1-beta.cloudsoftphone.com" id="753a7040-57d6-4cac-8e7f-a0aececcea60" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" customName="root@csp1-beta.cloudsoftphone.com:22" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="root@csp1-beta.cloudsoftphone.com:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
