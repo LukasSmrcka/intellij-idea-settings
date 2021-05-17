@@ -18,6 +18,7 @@
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="thbs" type="PLAIN_TEXT" />
+      <mapping ext="ssh" type="PLAIN_TEXT" />
       <mapping pattern="features" type="XML" />
       <mapping ext="bpmn" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
