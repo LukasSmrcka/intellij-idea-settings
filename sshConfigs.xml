@@ -10,6 +10,13 @@
       <sshConfig host="192.168.56.12" id="61b319df-a909-4c1f-97f9-c2e800c0b8e9" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" customName="root@csp2sandbox key" nameFormat="CUSTOM" username="root">
         <option name="customName" value="root@csp2sandbox key" />
       </sshConfig>
+      <sshConfig host="52.204.33.43" id="0ebe0f63-41cf-49bb-b5c6-d79494877064" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" customName="chime beta" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="chime beta" />
+      </sshConfig>
+      <sshConfig host="csp1-beta.cloudsoftphone.com" id="753a7040-57d6-4cac-8e7f-a0aececcea60" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" customName="root@csp1-beta.cloudsoftphone.com:22" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="root@csp1-beta.cloudsoftphone.com:22" />
+      </sshConfig>
+      <sshConfig host="54.224.135.50" id="4da4a9e3-c966-41c6-bb31-88b81d2ec5cc" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
