@@ -67,5 +67,12 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://172.22.0.3:5432/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="chime prod" uuid="d804949e-294b-4014-ac8c-750717172efe">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://chime.caxrbkhyyarn.us-east-1.rds.amazonaws.com:5432/conferencingchime</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
