@@ -2,25 +2,21 @@
   <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="postgres@localhost" uuid="5031db2b-c20e-4e35-bee6-2f608acda6f4">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp2 sandbox" uuid="624255c4-3b01-4d18-84cf-6c0ecdfe160d">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp2 beta" uuid="8eebc6dc-e654-43aa-ba1e-5e4ad1c9ce3e">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://172.18.1.2:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp2 prod" uuid="c7092281-14a5-42a5-8701-0b10299fc6c5">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://172.18.1.2:5432/postgres</jdbc-url>
     </data-source>
@@ -69,7 +65,6 @@
     </data-source>
     <data-source source="LOCAL" name="chime prod" uuid="d804949e-294b-4014-ac8c-750717172efe">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://chime.caxrbkhyyarn.us-east-1.rds.amazonaws.com:5432/conferencingchime</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
