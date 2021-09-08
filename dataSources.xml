@@ -69,5 +69,11 @@
       <jdbc-url>jdbc:postgresql://chime.caxrbkhyyarn.us-east-1.rds.amazonaws.com:5432/conferencingchime</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="postgres@chime-iqtn.caxrbkhyyarn.us-east-1.rds.amazonaws.com" uuid="e1064550-767d-4b21-90f2-4dae8b73acd1">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://chime-iqtn.caxrbkhyyarn.us-east-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
