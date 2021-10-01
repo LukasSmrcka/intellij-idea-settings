@@ -34,6 +34,10 @@
           <option name="url" value="https://gitlab.acrobits.cz/csp2/reporting.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.acrobits.cz:master/csp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Acrobits" />
