@@ -38,7 +38,7 @@
     <data-source source="LOCAL" name="conferencing prod" uuid="6b0c6bef-2fd6-431a-99ae-6ff10a35a879">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://172.18.0.10:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://172.18.0.7:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="contacts prod" uuid="599473b8-8032-4eba-b72b-cf0ac5b22956">
       <driver-ref>mongo</driver-ref>
