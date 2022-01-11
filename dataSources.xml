@@ -8,7 +8,7 @@
     <data-source source="LOCAL" name="csp2 sandbox" uuid="624255c4-3b01-4d18-84cf-6c0ecdfe160d">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://172.18.1.2:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp2 beta" uuid="8eebc6dc-e654-43aa-ba1e-5e4ad1c9ce3e">
       <driver-ref>postgresql</driver-ref>
