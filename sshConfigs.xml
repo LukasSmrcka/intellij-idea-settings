@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="providers.cloudsoftphone.com" id="7cab2710-8465-4aef-aca5-d2787e2c3a79" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="contacts.cloudsoftphone.com" id="d6193798-33c7-4349-8736-54058ea8f8d8" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="contacts.cloudsoftphone.com" id="d6193798-33c7-4349-8736-54058ea8f8d8" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig host="contacts.beta.cloudsoftphone.com" id="79392520-1157-47b5-83c6-ee22880d99e8" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="csp1-beta.cloudsoftphone.com" id="16f02155-93f1-46b3-ab1e-121a89fe881a" keyPath="C:\Users\Lukas\.babun\cygwin\home\Lukas\.ssh\id_rsa" port="22" customName="root@csp2-beta.cloudsoftphone.com:22 key" nameFormat="CUSTOM" username="root">
         <option name="customName" value="root@csp2-beta.cloudsoftphone.com:22 key" />
