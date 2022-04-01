@@ -58,6 +58,10 @@
           <option name="url" value="https://gitlab.acrobits.cz/csp2/csp1-application-management.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.acrobits.cz:csp2/provisioning-cache.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Acrobits" />
