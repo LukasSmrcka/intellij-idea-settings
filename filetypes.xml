@@ -1,27 +1,30 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="mybody" type="AUTO_DETECTED" />
       <mapping pattern="sample" type="JSON" />
       <mapping ext="schema" type="JSON" />
       <mapping ext="sample" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="WonetScripts" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern="something" type="PLAIN_TEXT" />
-      <mapping pattern="bla" type="PLAIN_TEXT" />
-      <mapping pattern="filer" type="PLAIN_TEXT" />
-      <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping pattern="nakup" type="PLAIN_TEXT" />
+      <mapping pattern="WonetScripts" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="something" type="PLAIN_TEXT" />
+      <mapping pattern="filer" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern="dump" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="thbs" type="PLAIN_TEXT" />
+      <mapping ext="ssh" type="PLAIN_TEXT" />
       <mapping pattern="features" type="XML" />
       <mapping ext="bpmn" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>

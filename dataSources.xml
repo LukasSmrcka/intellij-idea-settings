@@ -2,71 +2,83 @@
   <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="postgres@localhost" uuid="5031db2b-c20e-4e35-bee6-2f608acda6f4">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp2 sandbox" uuid="624255c4-3b01-4d18-84cf-6c0ecdfe160d">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://172.18.1.2:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp2 beta" uuid="8eebc6dc-e654-43aa-ba1e-5e4ad1c9ce3e">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://172.18.1.2:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp2 prod" uuid="c7092281-14a5-42a5-8701-0b10299fc6c5">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://172.18.1.2:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp1 sandbox" uuid="8d70252d-12ad-450f-b05c-8abed728af9b">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://192.168.56.100:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp1 beta" uuid="fd815d9c-2275-460e-a399-d46d38aa25ee">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/blank</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="csp1 prod" uuid="e0eed45f-33a6-4de2-af08-640993f3d3b0">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/blank</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="conferencing prod" uuid="6b0c6bef-2fd6-431a-99ae-6ff10a35a879">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://172.18.0.10:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://172.18.0.7:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="contacts prod" uuid="599473b8-8032-4eba-b72b-cf0ac5b22956">
       <driver-ref>mongo</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
-      <jdbc-url>mongodb://172.18.0.7:27017</jdbc-url>
+      <jdbc-url>mongodb://172.18.0.8:27017</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="contacts beta" uuid="353a390a-d933-4f31-a03e-358a971cc47a">
       <driver-ref>mongo</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
-      <jdbc-url>mongodb://172.22.0.3:27017</jdbc-url>
+      <jdbc-url>mongodb://172.22.0.5:27017</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="chime beta" uuid="c322c482-6a08-4395-b22c-2bf038a45704">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="conferencing beta" uuid="265ff2a5-73da-427d-be19-20f79de815a0">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.22.0.3:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="chime prod" uuid="d804949e-294b-4014-ac8c-750717172efe">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://chime.caxrbkhyyarn.us-east-1.rds.amazonaws.com:5432/conferencingchime</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@chime-iqtn.caxrbkhyyarn.us-east-1.rds.amazonaws.com" uuid="e1064550-767d-4b21-90f2-4dae8b73acd1">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://chime-iqtn.caxrbkhyyarn.us-east-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="chime prod replica" uuid="fe72aa5a-d0c7-4a31-bbc4-352f58b9c02f">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://chime-iqtn.caxrbkhyyarn.us-east-1.rds.amazonaws.com:5432/conferencingchime</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
