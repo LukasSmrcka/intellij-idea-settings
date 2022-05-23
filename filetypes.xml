@@ -6,6 +6,9 @@
       <mapping pattern="sample" type="JSON" />
       <mapping ext="schema" type="JSON" />
       <mapping ext="sample" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="nakup" type="PLAIN_TEXT" />
       <mapping pattern="WonetScripts" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
@@ -22,9 +25,6 @@
       <mapping ext="bpmn" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
