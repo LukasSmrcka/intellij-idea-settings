@@ -5,4 +5,8 @@
     <option name="GROUP_BY_PACKAGE" value="false" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
   </component>
+  <component name="UsageViewSettings">
+    <option name="GROUP_BY_SCOPE" value="true" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.41211718" />
+  </component>
 </application>
