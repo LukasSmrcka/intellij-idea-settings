@@ -1,19 +1,51 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="sample" type="JSON" />
+      <mapping ext="bzrignore" type="Bazaar file" />
+      <mapping ext="chefignore" type="Chef file" />
+      <mapping ext="cfignore" type="CloudFoundry file" />
+      <mapping ext="cvsignore" type="Cvs file" />
+      <mapping ext="boringignore" type="Darcs file" />
+      <mapping ext="dockerignore" type="Docker file" />
+      <mapping ext="eslintignore" type="ESLint file" />
+      <mapping ext="ebignore" type="ElasticBeanstalk file" />
+      <mapping ext="flooignore" type="Floobits file" />
+      <mapping ext="ignore-glob" type="Fossil file" />
+      <mapping ext="exclude" type="Git exclude file" />
+      <mapping ext="gitignore" type="Git file" />
+      <mapping ext="ignore" type="Ignore file" />
+      <removed_mapping ext="ignore" type="IgnoreLang file" />
+      <mapping ext="jshintignore" type="JSHint file" />
+      <mapping ext="jpmignore" type="Jetpack file" />
+      <mapping ext="helmignore" type="Kubernetes Helm file" />
+      <mapping ext="hgignore" type="Mercurial file" />
+      <mapping ext="mtn-ignore" type="Monotone file" />
+      <mapping ext="nodemonignore" type="Nodemon file" />
+      <mapping ext="npmignore" type="Npm file" />
+      <mapping ext="p4ignore" type="Perforce file" />
+      <mapping ext="prettierignore" type="Prettier file" />
+      <mapping ext="stylelintignore" type="StyleLint file" />
+      <mapping ext="stylintignore" type="Stylint file" />
+      <mapping ext="swagger-codegen-ignore" type="Swagger Codegen file" />
+      <mapping ext="tfignore" type="Team Foundation file" />
+      <mapping ext="upignore" type="Up file" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="bpmn" type="XML" />
       <mapping ext="sample" type="JSON" />
       <mapping ext="schema" type="JSON" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="text" type="PLAIN_TEXT" />
-      <mapping pattern="dump" type="PLAIN_TEXT" />
-      <mapping pattern="nakup" type="PLAIN_TEXT" />
-      <mapping pattern="filer" type="PLAIN_TEXT" />
-      <mapping pattern="something" type="PLAIN_TEXT" />
       <mapping ext="thbs" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping pattern="features" type="XML" />
-      <mapping ext="bpmn" type="XML" />
+      <mapping pattern="filer" type="PLAIN_TEXT" />
+      <mapping pattern="nakup" type="PLAIN_TEXT" />
+      <mapping pattern="sample" type="JSON" />
+      <mapping pattern="something" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
