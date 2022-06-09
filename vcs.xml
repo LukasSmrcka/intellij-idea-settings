@@ -71,28 +71,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.acrobits.cz:csp2/app-services.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.acrobits.cz:master/contact-server.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/konrad-kaminski/spring-kotlin-coroutine.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.acrobits.cz:csp2/properties-security-gateway.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="git@gitlab.acrobits.cz:csp2/messaging.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Acrobits" />
+    <option name="cloneParentDir" value="C:\Projects\Acrobits" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
