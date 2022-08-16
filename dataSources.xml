@@ -43,7 +43,7 @@
     <data-source source="LOCAL" name="contacts prod" uuid="599473b8-8032-4eba-b72b-cf0ac5b22956">
       <driver-ref>mongo</driver-ref>
       <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
-      <jdbc-url>mongodb://172.18.0.8:27017</jdbc-url>
+      <jdbc-url>mongodb://172.18.0.7:27017</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="contacts beta" uuid="353a390a-d933-4f31-a03e-358a971cc47a">
@@ -79,6 +79,13 @@
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://chime-iqtn.caxrbkhyyarn.us-east-1.rds.amazonaws.com:5432/conferencingchime</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="csp2 mongo prod" uuid="d787c6dc-0291-4f65-80bb-3aeb82b33ed8">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://172.18.1.3:27017</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
