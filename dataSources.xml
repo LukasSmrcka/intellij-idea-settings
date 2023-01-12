@@ -43,7 +43,7 @@
     <data-source source="LOCAL" name="contacts prod" uuid="599473b8-8032-4eba-b72b-cf0ac5b22956">
       <driver-ref>mongo</driver-ref>
       <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
-      <jdbc-url>mongodb://172.18.0.7:27017</jdbc-url>
+      <jdbc-url>mongodb://172.18.0.6:27017</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="contacts beta" uuid="353a390a-d933-4f31-a03e-358a971cc47a">
