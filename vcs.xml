@@ -94,6 +94,10 @@
           <option name="url" value="git@gitlab.acrobits.cz:video-conferencing/conferencing-chime-recording-processor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.acrobits.cz:csp2/artifact-management.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects\Acrobits" />
