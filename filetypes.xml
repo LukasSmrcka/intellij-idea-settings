@@ -24,7 +24,6 @@
       <mapping ext="ssh" type="PLAIN_TEXT" />
       <mapping pattern="features" type="XML" />
       <mapping ext="bpmn" type="XML" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
